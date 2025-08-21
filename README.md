@@ -21,7 +21,7 @@
 
 <h2> 🌸 Sobre Mim </h2>
 
-<p>Oi! Eu sou a <b>Rayla</b>, estudante de Desenvolvimento Web, tenho 18 anos. 🚀</p>
+<p>Oiii! Eu sou a <b>Rayla</b>, estudante de Desenvolvimento Web, tenho 18 anos. 🚀</p>
 
 Sempre em busca de aprender novas tecnologias e melhorar minhas habilidades como desenvolvedora.  
 Gosto de criar projetos práticos para treinar e expandir meu portfólio.
